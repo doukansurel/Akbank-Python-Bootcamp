@@ -118,7 +118,7 @@ Please make a choice:
         sys.exit()
    
 if __name__ == "__main__":
-    Library()
-    
+    lib = Library()
+    lib    
 
 
